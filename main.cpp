@@ -12,6 +12,7 @@ int main()
         cout << "\n Hello git , this is line"   << i ;
     }
 
+    cout <<"\n End of program, bye-bye" ;
     return 0;
 
 
